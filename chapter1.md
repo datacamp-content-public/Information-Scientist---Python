@@ -1,39 +1,61 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
-## Sample exercise
+## Exercise 1 - Loan Risk
 
 ```yaml
 type: NormalExercise
 lang: python
 xp: 100
 skills: 2
-key: 0c41867377
+key: 951d657fdb
 ```
+
 
 
 `@instructions`
 
+
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
+
+
+
+
+
+
+
+
+
+---
+## Exercise 2 - HQLA
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: e6abfa42f9
 ```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
+`@instructions`
 
-```
 
-`@sct`
-```{python}
+`@hint`
 
-```
+
+
+
+
+
+
+
+
+
