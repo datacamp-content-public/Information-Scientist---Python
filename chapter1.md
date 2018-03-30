@@ -1,7 +1,7 @@
 ---
-title: Test
+title: Skype Interview - Python
 description: >-
-  Test
+  
 
 
 ---
@@ -17,10 +17,6 @@ key: 951d657fdb
 
 
 
-`@instructions`
-
-
-`@hint`
 
 
 
@@ -38,17 +34,13 @@ key: 951d657fdb
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: e6abfa42f9
 ```
 
 
 
-`@instructions`
-
-
-`@hint`
 
 
 
